@@ -34,10 +34,10 @@ const Introduction = () => {
                     Como desarrollador FullStack con orientación al Backend, me dedico a crear aplicaciones robustas, escalables y seguras. Mi enfoque principal está en la arquitectura del sistema, la optimización de bases de datos y la implementación de API eficientes. Trabajo con tecnologías modernas y mejores prácticas para asegurar un rendimiento óptimo y una experiencia de usuario fluida.
                     </p>
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">
-                        <Link href="/projects" className="px-3 py-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
+                        <Link href="/portfolio" className="px-3 py-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
                         Ver Proyectos
                         </Link>
-                        <Link href="/contact" className="px-3 py-2 transition-all border-2 cursor-pointer text-secondary border-secondary text-md w-fit rounded-xl hover:shadow-xl hover:shadow-secondary">
+                        <Link href="/about-me" className="px-3 py-2 transition-all border-2 cursor-pointer text-secondary border-secondary text-md w-fit rounded-xl hover:shadow-xl hover:shadow-secondary">
                         Contacta conmigo
                         </Link>
                     </div>
