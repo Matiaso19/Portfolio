@@ -42,32 +42,32 @@ export const itemsNavbar = [
 export const dataAboutPage = [
     {
         id: 1,
-        title: "Frontend Developer",
-        subtitle: "TechSolutions",
-        description: "Colabora con un equipo dinámico para desarrollar interfaces de usuario atractivas y funcionales que impulsen el éxito de nuestros clientes en el mundo digital.",
+        title: "Backend Developer",
+        subtitle: "Rodar Rent Proyecto Academico",
+        description: "Aplicacion web de alquiler de autos",
         date: "Nov 2023 ",
     },
     {
         id: 2,
-        title: "Creador de Experiencias Digitales",
-        subtitle: "PixelCrafters",
-        description: "Trabaja en proyectos emocionantes que desafían los límites de la creatividad y la tecnología. Únete a nosotros mientras creamos experiencias digitales cautivadoras que inspiran y cautivan a nuestros usuarios.",
-        date: "May 2021",
+        title: "Fullstack Developer",
+        subtitle: "DogsApp Proyecto Academico",
+        description: "Aplicacion web de razas de perros consumiendo informacion de una API",
+        date: "Oct 2023",
     },
     {
         id: 3,
-        title: "Especialista en Desarrollo Frontend",
-        subtitle: "CodeForge Solutions",
-        description: "Como desarrollador frontend, tendrás la oportunidad de colaborar en proyectos diversos y desafiantes que te permitirán expandir tus habilidades y dejar tu huella en el mundo digital.",
-        date: "Ago 2019",
+        title: "Administrativo de Produccion",
+        subtitle: "Flexcolor SRL",
+        description: "PLanificacion de la produccion, reclamos, reparaciones y devoluciones. Actualmente trabajo aqui",
+        date: "Mar 2008",
     },
-    {
-        id: 4,
-        title: "Prácticas Grado",
-        subtitle: "WebWizards Inc.",
-        description: "Únete a nosotros mientras creamos sitios web y aplicaciones interactivas que sorprenden y deleitan a nuestros clientes. Si tienes pasión por el diseño y la programación, y disfrutas colaborar en un entorno creativo, ¡queremos conocerte!        ",
-        date: "Mar 2018",
-    },
+    // {
+    //     id: 4,
+    //     title: "Prácticas Grado",
+    //     subtitle: "WebWizards Inc.",
+    //     description: "Únete a nosotros mientras creamos sitios web y aplicaciones interactivas que sorprenden y deleitan a nuestros clientes. Si tienes pasión por el diseño y la programación, y disfrutas colaborar en un entorno creativo, ¡queremos conocerte!        ",
+    //     date: "Mar 2018",
+    // },
 ]
 
 export const dataCounter = [
@@ -119,33 +119,36 @@ export const serviceData = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "Web Pro",
-        image: "/image-1.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        title: "Rodar Rent",
+        image: "/rodarrent.jpg",
+        urlGithub: "https://github.com/matta-ale/RodarRent-backend",
+        urlDemo: "https://rodarrent.vercel.app/",
+        
+        
     },
     {
         id: 2,
-        title: "Desarrollo Web Ágil",
-        image: "/image-2.jpg",
-        urlGithub: "#!",
+        
+        title: "Rick and Morty App",
+        image: "/image-1.jpg",
+        urlGithub: "https://github.com/Matiaso19/rick_and_morty",
         urlDemo: "#!",
     },
     {
         id: 3,
-        title: "Estrategias Web",
-        image: "/image-3.jpg",
-        urlGithub: "#!",
+        title: "DogsApp",
+        image: "/dogsApp1.jpeg",
+        urlGithub: "https://github.com/Matiaso19/PIDogs",
         urlDemo: "#!",
     },
     {
         id: 4,
-        title: "Ideas Creativas",
+        title: "Expense App",
         image: "/image-4.jpg",
-        urlGithub: "#!",
+        urlGithub: "https://github.com/Matiaso19/ExpenseApp",
         urlDemo: "#!",
     },
-    {
+    /*{
         id: 5,
         title: "Webs Impactantes",
         image: "/image-5.jpg",
@@ -172,7 +175,7 @@ export const dataPortfolio = [
         image: "/image-8.jpg",
         urlGithub: "#!",
         urlDemo: "#!",
-    }
+    }*/
 ];
 
 export const dataTestimonials = [
